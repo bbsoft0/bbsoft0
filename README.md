@@ -1,5 +1,5 @@
 [![bbsoft0's github stats](https://github-readme-stats.vercel.app/api?username=bbsoft0&count_private=true&show_icons=true)](https://github.com/bbsoft0/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbsoft0&count_private=true&show_icons=true&langs_count=5)](https://github.com/bbsoft0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbsoft0&layout=compact[[https://github-readme-stats.vercel.app/api/top-langs/?username=bbsoft0&count_private=true&show_icons=true&langs_count=6)](https://github.com/bbsoft0/github-readme-stats|&count_private=true&show_icons=true&langs_count=7]][[)](https://github.com/anuraghazra/github-readme-stats]])
 <!--
 **bbsoft0/bbsoft0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
