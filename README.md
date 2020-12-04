@@ -16,7 +16,7 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="AWS Cloud" src="https://img.shields.io/static/v1?label= &message=AWS Cloud&color=darkblue" />
-  <img alt="Digital Ocean" src="https://img.shields.io/static/v1?label= &message=Digital Ocean&color=blue" />
+  <img alt="Digital Ocean" src="https://img.shields.io/badge/Digital%20Ocean-lightblue?style=flat&logo=digitalocean&labelColor=lightblue" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
