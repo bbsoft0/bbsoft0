@@ -9,7 +9,7 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-007ACC?style=flat-square&logo=docker&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F05032?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-45b8d8?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20" />
   <img alt="C#" src="https://img.shields.io/badge/-CSharp-13aa52?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="ASP.NET" src="https://img.shields.io/badge/-ASP.NET-F05032?style=flat-square&logo=microsoft&logoColor=white" />
