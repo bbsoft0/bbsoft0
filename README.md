@@ -8,6 +8,7 @@
 <p>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-E10098?style=flat-square&logo=Machine%20Learning&logoColor=white" />
+  <img alt="RestAPI" src="https://img.shields.io/badge/-REST-API-F9A03C?style=flat-square&logo=restapi&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-007ACC?style=flat-square&logo=docker&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-E10098?style=flat-square&logo=azure&logoColor=white" />
