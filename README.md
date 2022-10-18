@@ -1,7 +1,7 @@
 
 <h1>Hi There, I am <a  href="https://bbsoft0.github.io/">Barbu Bujor</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<p>Welcome to my page! </br> I'm a software engineer from <img src="https://cdn-icons-png.flaticon.com/128/197/197587.png" width="13"/> <b>Cluj Napoca, Romania</b> </p>
+<p>Welcome to my page! </br> I'm a software engineer from <b>Cluj Napoca, Romania</b> <img src="https://cdn-icons-png.flaticon.com/128/197/197587.png" width="13"/> </p>
 
 
 ## Tools I use in coding :muscle:
