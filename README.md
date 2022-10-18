@@ -1,10 +1,10 @@
 
 <h1>Hi There, I am <a  href="https://bbsoft0.github.io/">Barbu Bujor</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<p>Welcome to my page! </br> I'm a software engineer from <img src="https://image.flaticon.com/icons/svg/197/197587.svg" width="13"/> <b>Cluj Napoca, Romania</b> </p>
+<p>Welcome to my page! </br> I'm a software engineer from <img src="https://cdn-icons-png.flaticon.com/128/197/197587.png" width="13"/> <b>Cluj Napoca, Romania</b> </p>
 
 
-## Things I use in coding :muscle:
+## Tools I use in coding :muscle:
 <p>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-E10098?style=flat-square&logo=Machine%20Learning&logoColor=white" />
