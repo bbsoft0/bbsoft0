@@ -11,6 +11,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-45b8d8?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-E10098?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-E10098?style=flat-square&logo=azure&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-CSharp-13aa52?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="ASP.NET" src="https://img.shields.io/badge/-ASP.NET-F05032?style=flat-square&logo=microsoft&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -29,7 +30,6 @@
 ## Github stats:
 
 [![bbsoft0's github stats](https://github-readme-stats.vercel.app/api?username=bbsoft0&count_private=true&show_icons=true)](https://github.com/bbsoft0/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbsoft0&layout=compact&lang_count=8)](https://github.com/bbsoft0/github-readme-stats)
 
 
 <!--
