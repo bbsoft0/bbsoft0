@@ -1,7 +1,16 @@
+# Barbu Bujor
 
-<h1>Hi There, I am <a  href="https://bbsoft0.github.io/">Barbu Bujor</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+[![Linkedin: barbubujor](https://img.shields.io/badge/-Barbu%20Bujor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barbu-b-7b912715a/)](https://www.linkedin.com/in/barbu-b-7b912715a/)
 
-<p>Welcome to my page! </br> I'm a software engineer from <b>Cluj Napoca, Romania</b> <img src="https://cdn-icons-png.flaticon.com/128/197/197587.png" width="13"/> </p>
+Hi! Welcome to my github page. Hope you will find usefull things here 
+
+In any case thank you for dropping in! 🙂
+
+## Bio
+
+My name is <a  href="https://bbsoft0.github.io/">Barbu Bujor</a>. I'm a Full Stack Developer from Romania! <img src="https://cdn-icons-png.flaticon.com/128/197/197587.png" width="13"/>
+
+Im working with many techonologies, FrontEnt, Backend and Machine Learning !
 
 
 ## Tools I use in coding :muscle:
