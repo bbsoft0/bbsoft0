@@ -2,9 +2,9 @@
 
 [![Linkedin: barbubujor](https://img.shields.io/badge/-Barbu%20Bujor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barbu-b-7b912715a/)](https://www.linkedin.com/in/barbu-b-7b912715a/)
 
-Hi! Welcome to my github page. Hope you will find usefull things here 
+Hi! Welcome to my github page. Hope you will find usefull things here.
 
-In any case thank you for dropping in! 🙂
+Thank you for visiting! 🙂
 
 ## Bio
 
