@@ -35,9 +35,6 @@ Im working with many techonologies and tools, focusing on AI Data Integration.
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
-## Github stats:
-
-[![bbsoft0's github stats](https://github-readme-stats.vercel.app/api?username=bbsoft0&count_private=true&show_icons=true)](https://github.com/bbsoft0/github-readme-stats)
 
 
 <!--
