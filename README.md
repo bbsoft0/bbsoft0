@@ -8,9 +8,9 @@ Thank you for visiting! 🙂
 
 ## Bio
 
-My name is <a  href="https://bbsoft0.github.io/">Barbu Bujor</a>. I'm a Data Engineer from Romania! <img src="https://cdn-icons-png.flaticon.com/128/197/197587.png" width="13"/>
+My name is <a  href="https://bbsoft0.github.io/">Barbu Bujor</a>. I'm a AI Engineer from Romania! <img src="https://cdn-icons-png.flaticon.com/128/197/197587.png" width="13"/>
 
-Im working with many techonologies and tools, focusing on AI Data Integration.
+Im working with many techonologies and tools, focusing on AI and Machine Learning.
 
 
 ## Tools I use in coding :muscle:
